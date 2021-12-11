@@ -8,3 +8,5 @@
 aboodu77/aboodu77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+1. git clone https://github.com/machine1337/pdfcrack.git
+2. cd pdfcrack && chmod +x crack.sh
